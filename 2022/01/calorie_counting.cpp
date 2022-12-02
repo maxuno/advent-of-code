@@ -7,7 +7,6 @@ using namespace std;
 #include <list>
 #include <vector>
 
-int sumArray(int array[]);
 
 int main(){
     ifstream file;
